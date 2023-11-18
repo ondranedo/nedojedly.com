@@ -1,0 +1,56 @@
+/* style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffb961;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.political-views {
+    text-align: center;
+}
+
+.flag {
+    width: 80px;
+    height: auto;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.contact {
+    background-color: #f3826f;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #722d61;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+a {
+    color: #2d3561;
+}
